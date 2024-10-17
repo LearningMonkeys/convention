@@ -17,3 +17,8 @@
 # Open source
 - 정작 이 문서는 한글로 작성되었지만, 널리 공유하기 위해 이슈, PR, 커밋 메시지, 주석은 모두 간단한 영어로 작성해주세요.
 - 유명 오픈소스 레파지토리를 참고하세요. (e.g., [spring-boot](https://github.com/spring-projects/spring-boot), [llama](https://github.com/meta-llama/llama))
+
+# Rulsets
+- 모든 레파지토리는 강제 푸시 및 브랜치 삭제 등 불상사 방지 및 원활한 협업을 위해 룰셋을 추가합니다.
+- 신규로 생성한 레파지토리에 룰셋을 반드시 추가해주세요. - [참고](https://github.com/LearningMonkeys/convention/settings/rules/2288353)
+    - github actions 사용시에는 `Require status checks to pass` 룰도 사용해주세요.
